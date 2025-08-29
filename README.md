@@ -1,7 +1,7 @@
 # Portfólio de Projetos Acadêmicos - Renato Nascimento
 
 Bem-vindo ao meu portfólio!  
-Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco de Dados e Análise de Dados**.
+Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco de Dados**
 
 ## Projetos em destaque
 -  **Power BI - Fit Airlines**  
