@@ -10,7 +10,7 @@ Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco 
 
 - 🗄️ **SQL - Fit Airlines**  
   Scripts de criação e manipulação de banco de dados relacional para simulação da companhia aérea.  
-  📂 [Ver Scripts SQL](./SQL)
+  📂 [Ver Scripts SQL](./SQL_FitAirline)
 
 ---
 
