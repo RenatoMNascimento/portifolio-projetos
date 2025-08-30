@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 👉 [Acesse o Dashboard Online](https://app.powerbi.com/reportEmbed?reportId=156956a3-8857-476f-97d6-da76bcd6042d&autoAuth=true&ctid=c0205eec-f970-4c93-ab97-fe08a313bdab)  ou no 📂 [Material do Repositório](./PowerBi) 
 
-Scripts de criação das tabelas dimensões e fato através da base de ddados pública.
+Scripts de criação das tabelas dimensões e fato através da base de dados pública.
 📂 [Ver Scripts MySQL](./Query_Olist)
 
 👉 [Acesse a base de dados do kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
