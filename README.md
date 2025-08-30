@@ -25,4 +25,6 @@ ________________________________________________________________________________
   logística e serviços financeiros.
 
 👉 [Acesse o Dashboard Online](https://app.powerbi.com/reportEmbed?reportId=156956a3-8857-476f-97d6-da76bcd6042d&autoAuth=true&ctid=c0205eec-f970-4c93-ab97-fe08a313bdab)  
+
+📂 [Ver Querys MySQL](./Query_Olist)
   
