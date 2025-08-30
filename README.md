@@ -7,7 +7,7 @@ Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco 
 -  **Power BI - Fit Airlines**  
   Dashboard interativo com indicadores estratégicos de uma companhia aérea fictícia.  
   👉 [Acesse o Dashboard Online](https://app.powerbi.com/reportEmbed?reportId=009b1bf0-3642-4f5f-9561-40ae6c8ebff5&autoAuth=true&ctid=c0205eec-f970-4c93-ab97-fe08a313bdab)
- ou no [Material do Repositório](./PowerBi/PowerBi/PowerBi/Captura de tela 2025-08-29 223632.png) 
+ ou no [Material do Repositório](./PowerBi/PowerBi/Captura de tela 2025-08-29 223632.png) 
 
 -  **SQL - Fit Airlines**  (1 Semestre)
   Scripts de criação e manipulação de banco de dados relacional para simulação da companhia aérea.  
