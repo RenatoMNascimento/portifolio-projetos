@@ -20,8 +20,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________
 
 - **Bussiness Intelligence - Olist** (3 Semestre)
-  Criação de tabelas dimensões e uma tabela fato atráves de uma base póblica, para projeção de dashboards no PowerBi. A Olist é uma startup brasileira fundada em 2015 em Curitiba, Paraná, que atua no setor de
-  tecnologia para o varejo. A empresa oferece soluções que conectam pequenos lojistas e grandes marcas a marketplaces, facilitando a gestão de lojas físicas e online, 
+  Criação de tabelas dimensões e uma tabela fato atráves de uma base póblica, para projeção de dashboards no PowerBi. A Olist é uma startup brasileira fundada em 2015 em
+  Curitiba, Paraná, que atua no setor de tecnologia para o varejo. A empresa oferece soluções que conectam pequenos lojistas e grandes marcas a marketplaces, facilitando a gestão de lojas físicas e online, 
   logística e serviços financeiros.
 
 👉 [Acesse o Dashboard Online](https://app.powerbi.com/reportEmbed?reportId=156956a3-8857-476f-97d6-da76bcd6042d&autoAuth=true&ctid=c0205eec-f970-4c93-ab97-fe08a313bdab)  
