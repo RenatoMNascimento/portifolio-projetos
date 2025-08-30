@@ -24,5 +24,5 @@ ________________________________________________________________________________
   tecnologia para o varejo. A empresa oferece soluções que conectam pequenos lojistas e grandes marcas a marketplaces, facilitando a gestão de lojas físicas e online, 
   logística e serviços financeiros.
 
-👉 [Acesse o Dashboard Online](https://app.powerbi.com/reportEmbed?reportId=156956a3-8857-476f-97d6-da76bcd6042d)  
+👉 [Acesse o Dashboard Online](https://app.powerbi.com/reportEmbed?reportId=156956a3-8857-476f-97d6-da76bcd6042d&autoAuth=true&ctid=c0205eec-f970-4c93-ab97-fe08a313bdab)  
   
