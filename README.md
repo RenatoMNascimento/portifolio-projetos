@@ -13,7 +13,7 @@ Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco 
   📂 [Ver Scripts SQL](./SQL_FitAirline)
 
 _______________________________________________________________________________________________________________________________________________________________________________ 
-- **Web DATA - Projeto (2 Semestre)
+- **Web DATA - Projeto** (2 Semestre)
   Aplicação implementada com flask que coleta dados com selenium, armazena, trata e disponibiliza dados para serem analisados por pessoas e processos. Publicada no GitHub.
    👉 [Acesse o Dashboard Online](https://rodaprojeto.streamlit.app/)
 
