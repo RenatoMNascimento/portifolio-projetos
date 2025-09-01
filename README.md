@@ -16,7 +16,7 @@ Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco 
 _______________________________________________________________________________________________________________________________________________________________________________ 
 - **Web DATA - Projeto** (2 Semestre)
   Aplicação implementada com flask que coleta dados com selenium, armazena, trata e disponibiliza dados para serem analisados por pessoas e processos. Publicada no GitHub.
-   👉 [Acesse o Dashboard Online](https://rodaprojeto.streamlit.app/) ou no 📂 [Material do Repositório](https://github.com/RenatoMNascimento/portifolio-projetos/tree/main/ProjetoWebData)
+   👉 [Acesse o Dashboard Online](https://portifolio-projetos-yqz3geubcvtxgzfnks8w6y.streamlit.app/) ou no 📂 [Material do Repositório](https://github.com/RenatoMNascimento/portifolio-projetos/tree/main/ProjetoWebData)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
