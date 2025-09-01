@@ -11,12 +11,12 @@ Aqui compartilho projetos desenvolvidos ao longo da minha formação em **Banco 
 
 -  **SQL - Fit Airlines**  (1 Semestre)
   Scripts de criação e manipulação de banco de dados relacional para simulação da companhia aérea.  
-  📂 [Ver Scripts SQL](./SQL_FitAirline)
+  📂 [Ver Scripts SQL](./SQL_FitAirline) 
 
 _______________________________________________________________________________________________________________________________________________________________________________ 
 - **Web DATA - Projeto** (2 Semestre)
   Aplicação implementada com flask que coleta dados com selenium, armazena, trata e disponibiliza dados para serem analisados por pessoas e processos. Publicada no GitHub.
-   👉 [Acesse o Dashboard Online](https://rodaprojeto.streamlit.app/)
+   👉 [Acesse o Dashboard Online](https://rodaprojeto.streamlit.app/) ou no 📂 [Material do Repositório](https://github.com/RenatoMNascimento/portifolio-projetos/tree/main/ProjetoWebData)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
